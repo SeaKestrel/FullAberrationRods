@@ -1,0 +1,8 @@
+{
+	"Name": "FullAberrationRods",
+	"ModGUID": "DaSea.FullAberrationRods",
+	"Version": "0.0.1",
+	"ModAssembly": "FullAberrationRods.dll",
+	"MinWinchVersion": "0.2.3",
+	"Entrypoint": "FullAberrationRods.Loader/Initialize"
+}
